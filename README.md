@@ -6,4 +6,4 @@ cd my-boot
 
 ./mvnw spring-boot:run
 
-API server starts at localhost:9090
+API server starts at http://localhost:9090
